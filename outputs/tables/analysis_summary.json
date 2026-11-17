@@ -1,0 +1,35 @@
+{
+  "taskA_shapiro_poly_p": 0.024024371020921198,
+  "taskA_spearman_absres_fitted_poly": [
+    0.03608969299577034,
+    0.629571199064845
+  ],
+  "taskB_holdout_n_flights": 36,
+  "taskB_holdout_metrics": {
+    "RMSE": 51.83378611207139,
+    "MAE": 32.67130665697731,
+    "R2": 0.9513977874021657,
+    "MAPE": 15201910.173366075
+  },
+  "taskB_integrated_energy_metrics": {
+    "RMSE": 0.7615089879803064,
+    "MAE": 0.5810348044727923,
+    "R2": 0.9715066768219346,
+    "MAPE": 2.7889440592312664
+  },
+  "cluster_silhouette_by_k": {
+    "2": 0.4008770224658534,
+    "3": 0.4684533990652042,
+    "4": 0.5155623501480453,
+    "5": 0.5096997243377857,
+    "6": 0.5150545817615749,
+    "7": 0.532086789947769,
+    "8": 0.5246252647966386
+  },
+  "cluster_best_k": 7,
+  "cluster_kmeans_ari_vs_rule_phase": 0.4437109936979919,
+  "cluster_dbscan_n_clusters": 13,
+  "cluster_dbscan_noise_pct": 14.274999999999999,
+  "cluster_dbscan_silhouette": 0.2076910119910675,
+  "cluster_dbscan_ari_vs_rule_phase": 0.3440641264177385
+}

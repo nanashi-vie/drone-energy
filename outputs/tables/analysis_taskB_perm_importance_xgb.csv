@@ -1,0 +1,13 @@
+feature,importance,std
+vertical_speed,111.235,0.974
+rel_alt,106.221,0.625
+accel_mag,98.928,0.834
+ang_rate_mag,73.199,0.8
+battery_voltage,46.762,0.607
+ground_speed,42.784,0.605
+payload,19.127,0.296
+wind_speed,11.332,0.256
+wind_cos,0.647,0.093
+wind_sin,0.575,0.066
+altitude,0.073,0.04
+speed,-0.166,0.075

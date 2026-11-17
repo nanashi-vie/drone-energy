@@ -1,0 +1,9 @@
+feature,importance,std
+altitude,3.9973,0.1709
+speed,3.9072,0.1631
+payload,2.2296,0.1127
+std_wind,0.3711,0.0226
+mean_wind,0.3057,0.0295
+max_wind,0.1952,0.0138
+v_start,0.1674,0.0112
+hour,0.0767,0.0061
