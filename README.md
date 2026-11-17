@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Demo: dự báo năng lượng pin UAV trước chuyến bay
 
 Product demo cho đề tài RBL môn DTA301 (Nhóm 6): *Phân tích và dự đoán mức năng lượng pin của UAV giao hàng*.
@@ -121,4 +120,3 @@ python src/06_repro_check.py
 ```
 
 Mọi bước dùng seed cố định là 42.
->>>>>>> master
