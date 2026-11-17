@@ -1,0 +1,7 @@
+,,RMSE,RMSE,MAE,MAE,R2,R2,MAPE,MAPE
+,,mean,std,mean,std,mean,std,mean,std
+task,model,,,,,,,,
+A_energy,Linear Regression,1.485,0.175,1.19,0.134,0.898,0.024,5.719,0.7
+A_energy,Mean (dummy),4.792,0.596,3.946,0.532,-0.034,0.063,19.655,2.487
+B_power,Linear Regression,148.706,4.972,120.74,3.967,0.59,0.031,196478750.656,71653689.858
+B_power,Mean (dummy),232.837,5.513,190.013,7.079,-0.003,0.003,469384426.014,149590274.648

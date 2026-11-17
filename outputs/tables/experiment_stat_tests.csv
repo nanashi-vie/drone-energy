@@ -1,0 +1,7 @@
+task,comparison,mean_RMSE_base,mean_RMSE_model,delta_RMSE,pct_improvement,t_stat,p_ttest,wilcoxon_W,p_wilcoxon,cohen_d,n_folds,p_wilcoxon_holm,p_ttest_holm
+A_energy,Linear Regression vs Polynomial Ridge (deg 2),1.484926,0.718784,0.766142,51.594615,34.867778,0.0,0.0,0.0,4.931048,50,0.0,0.0
+A_energy,Linear Regression vs Random Forest,1.484926,1.382798,0.102128,6.877635,3.474691,0.00108,306.0,0.001064,0.491395,50,0.001064,0.00108
+A_energy,Linear Regression vs XGBoost,1.484926,0.797367,0.687559,46.302593,36.988318,0.0,0.0,0.0,5.230938,50,0.0,0.0
+B_power,Linear Regression vs Polynomial Ridge (deg 2),148.705753,105.980887,42.724867,28.731146,72.239885,0.0,0.0,0.0,14.447977,25,0.0,0.0
+B_power,Linear Regression vs Random Forest,148.705753,53.928696,94.777057,63.734627,89.260645,0.0,0.0,0.0,17.852129,25,0.0,0.0
+B_power,Linear Regression vs XGBoost,148.705753,53.79269,94.913064,63.826087,84.585309,0.0,0.0,0.0,16.917062,25,0.0,0.0

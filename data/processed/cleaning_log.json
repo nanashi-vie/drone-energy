@@ -1,0 +1,13 @@
+{
+  "raw_rows": 257896,
+  "missing_total": 0,
+  "duplicate_flight_time": 0,
+  "outlier_voltage_rows": 0,
+  "outlier_current_rows": 0,
+  "flights_excluded_non_R1_or_750g": 28,
+  "sample_rows_full_flights": 225929,
+  "full_flights": 181,
+  "flights_total": 209,
+  "flights_full_route": 181,
+  "flights_ancillary_or_hover": 28
+}

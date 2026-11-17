@@ -1,0 +1,45 @@
+term,coef
+altitude,3.0507
+speed,-2.5312
+payload,1.6664
+speed^2,1.4257
+altitude max_wind,-0.5742
+speed altitude,0.4059
+payload altitude,0.3612
+max_wind v_start,0.3501
+max_wind,-0.2547
+altitude mean_wind,0.2438
+hour^2,-0.2228
+speed std_wind,0.2174
+payload mean_wind,0.212
+payload max_wind,-0.1988
+payload speed,-0.1985
+mean_wind v_start,-0.1875
+std_wind v_start,-0.1841
+speed max_wind,-0.172
+altitude std_wind,0.1409
+mean_wind hour,-0.1378
+mean_wind^2,0.1234
+speed v_start,-0.1208
+mean_wind max_wind,0.1135
+v_start^2,-0.1122
+speed hour,-0.1053
+max_wind hour,0.09
+mean_wind,0.0813
+altitude v_start,-0.0783
+max_wind^2,-0.0695
+payload^2,0.062
+payload std_wind,-0.0444
+max_wind std_wind,-0.0388
+std_wind,0.0353
+altitude^2,-0.0346
+hour,0.0308
+speed mean_wind,-0.0307
+payload hour,-0.0267
+std_wind^2,0.0155
+payload v_start,-0.0117
+altitude hour,-0.0079
+v_start hour,0.0058
+std_wind hour,0.0058
+v_start,0.0043
+mean_wind std_wind,-0.0019

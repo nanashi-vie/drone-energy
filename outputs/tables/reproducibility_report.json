@@ -1,0 +1,22 @@
+{
+  "run1_md5": "64c93af54d6a5dfae7637e9ac2a0a477",
+  "run2_md5": "64c93af54d6a5dfae7637e9ac2a0a477",
+  "identical_metrics": true,
+  "max_abs_diff": 0.0,
+  "data_md5": {
+    "flights_full.csv": "bf3934fee5f3b4abc64ba426ee996e58",
+    "samples.csv": "0b28bb8565e8efc6e08cef676437471b",
+    "flights_all.csv": "111248c39b5db49853e209e9db1080ef"
+  },
+  "environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.0",
+    "scipy": "1.18.0",
+    "xgboost": "3.4.0",
+    "matplotlib": "3.11.1",
+    "seed": 42
+  }
+}
